@@ -1,0 +1,51 @@
+# Build Folders
+[Bb]in/
+[Oo]bj/
+x64/Debug/
+x64/Release/
+Debug/
+Release/
+
+# Visual Studio
+*.vcxproj.user
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.ipch
+*.ncb
+*.VC.db
+*.VC.opendb
+*.vs
+# Precompiled headers
+*.pch
+
+# IntelliSense files
+*.idb
+*.pdb
+
+# Output files
+*.exe
+*.dll
+*.lib
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+
+# Logs and temporary files
+*.log
+*.tlog/
+*.lastbuildstate
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# Others
+*.tmp
+*.cache
+*.ilk
+*.manifest
